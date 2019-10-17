@@ -1,0 +1,1 @@
+The goal of this project is building the first set of tools that will eventually become a series of tools to quickly convert values. These could range from things that are very useful such as measurements of cooking; to things that are just there for fun i.e. converting human years to do years. 
