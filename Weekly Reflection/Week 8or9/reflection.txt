@@ -1,0 +1,20 @@
+Chapter 10 was an interesting look at the functionality of some very fundatmental elements of image
+analysis and manipulation. Some of which I have used for years in image editors.
+It was very interesting to learn about how those functionalities worked at a 
+basic level. 
+
+As much as I enjoyed learning the basics I felt like there could have been a heavier focus
+practicing elements of PIL that didn't return an error or worked 100%.
+For example: Montfort spent plenty of time in the last section going over flipping an image, 
+however it didn't return the desired result. When he did cover obtaining the 
+desired result he simply stated: "So, what’s needed isn’t additional work, but less work. Instead of iterating over
+range(width), how about iterating over half of that interval?". Ideally it would have been great 
+to see an example of what he meant. 
+
+This chapter and our class did inspire me with an idea for our final project. 
+As someone who has spent many hours working in substance designer creating procedurally 
+generated textures, I saw a great opportunity to create something that could help 
+people get started with the texture they want to make. Creating a tool that provided 
+artists with different types of noise images (different from what is included in substance)
+that are categorized based on what they are texturing could be a successful learning experience 
+for those either just starting out or inspiring a starting point. 
