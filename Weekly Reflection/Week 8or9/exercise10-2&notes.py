@@ -1,3 +1,4 @@
+#%%
 import random
 from PIL import Image
 
@@ -38,3 +39,17 @@ flip(testimage)
 testimage
 
 #%%
+mode = 'RGBA'
+size = (100,100)
+color = (100,255,255,255)
+testimage = Image.new(mode, size, color)
+
+testimage
+
+def line(imagename, value, r,g,b,a):
+    for y in range(imagename.size[1]):
+        imagename.putpixel((0,y),(r,g,b,a))
+    
+    imagename
+
+# %%
