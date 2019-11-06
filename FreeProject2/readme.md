@@ -8,4 +8,4 @@ One option that isn't the most efficient but could be explored is creating small
 
 I will continue to try and make different shapes with my current function and explore other ways to create noise images.
 
-One thing I would like a better understanding of is where I am able to add mathematical procedure to my functions. I would like to be able change the size or shape of what is being placed when I use put.pixel, or is there another way I should be approaching that aspect of image creation entirely.
+One thing I would like a better understanding of is where I am able to add mathematical procedure to my functions. I would like to be able change the size or shape of what is being placed when I use put.pixel, or is there another way I should be approaching that aspect of image creation entirely. I found a sources online to create shapes using PIL but is there a better way to do this? 
